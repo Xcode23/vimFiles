@@ -6,5 +6,6 @@ Plug 'itchyny/lightline.vim'
 Plug 'tpope/vim-eunuch'
 Plug 'scrooloose/nerdtree'
 Plug 'airblade/vim-gitgutter'
+Plug 'scrooloose/nerdcommenter'
 
 call plug#end()
