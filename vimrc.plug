@@ -7,5 +7,11 @@ Plug 'tpope/vim-eunuch'
 Plug 'scrooloose/nerdtree'
 Plug 'airblade/vim-gitgutter'
 Plug 'scrooloose/nerdcommenter'
+Plug 'drewtempelmeyer/palenight.vim'
+
+"haskell
+Plug 'neovimhaskell/haskell-vim'
+Plug 'neoclide/coc.nvim', {'do': { -> coc#util#install()}}
 
 call plug#end()
+
